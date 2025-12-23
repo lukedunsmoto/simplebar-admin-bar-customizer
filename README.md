@@ -1,7 +1,7 @@
+![SimpleBar Banner](https://www.lukedunsmore.com/wp-content/uploads/2025/12/banner-1544x500-1.png)
+
 # SimpleBar - Admin Bar Customizer
 A free WordPress plugin that lets you easily customize the admin bar and side menu. Change colours, add your own links, hide elements or use drag and drop to reorder them.
-
-![SimpleBar Banner](https://www.lukedunsmore.com/wp-content/uploads/2025/12/banner-1544x500-1.png)
 
 ---
 
@@ -10,11 +10,7 @@ A free WordPress plugin that lets you easily customize the admin bar and side me
 The WordPress admin bar is powerful — but it gets cluttered quickly.  
 SimpleBar exists to make it calmer, clearer, and more intentional.
 
-No bloated settings screens.  
-No feature creep.  
-No dark patterns or upsells.
-
-Just a focused tool that lets you hide what you don’t need and keep your workflow tidy.
+A free, focused tool that lets you hide what you don’t need and keep your workflow tidy.
 
 ---
 
@@ -23,6 +19,8 @@ Just a focused tool that lets you hide what you don’t need and keep your workf
 - Hide unused admin bar items
 - Reduce visual clutter in the WordPress toolbar
 - Keep frequently used items accessible
+- Add custom links to the admin bar
+- Change colours of both the admin bar and side menu
 - Lightweight, fast, and unobtrusive
 - Built with core WordPress APIs
 - No tracking, ads, or external dependencies
@@ -64,26 +62,13 @@ Install directly from the plugin directory:
 
 ---
 
-## Philosophy
-
-SimpleBar follows a few guiding principles:
-
-- **Do one thing well**
-- **Avoid unnecessary configuration**
-- **Respect the user’s attention**
-- **Play nicely with WordPress core**
-
-If you want an admin bar that feels considered rather than cluttered, this plugin is for you.
-
----
-
-## Roadmap (deliberately short)
+## Roadmap
 
 - Minor UX refinements based on real-world usage
 - Compatibility testing with future WordPress releases
 - Documentation polish
 
-Feature requests are welcome, but restraint is a feature too.
+Feature requests are welcome!
 
 ---
 
@@ -91,22 +76,21 @@ Feature requests are welcome, but restraint is a feature too.
 
 Issues and pull requests are welcome.
 
-If you’re proposing a new feature, consider whether it:
+If you’re proposing a new feature, please consider whether it:
+
 - Improves clarity
 - Reduces friction
 - Keeps the plugin lightweight
-
-SimpleBar is intentionally opinionated.
 
 ---
 
 ## Author
 
 Built by **Luke Dunsmore**  
-Designer / Developer / Builder of practical tools
+Designer / Developer / Builder of Practical Tools
 
 - Website: https://www.lukedunsmore.com
-- WordPress.org: https://profiles.wordpress.org/lukedunsmore/
+- WordPress.org: https://profiles.wordpress.org/lukedunsmoto/
 
 ---
 
