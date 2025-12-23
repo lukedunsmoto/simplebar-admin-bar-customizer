@@ -1,0 +1,13 @@
+.sbabc-wrap .nav-tab-wrapper { margin-top: 1rem; }
+.sbabc-colour-field { max-width: 140px; }
+.sbabc-roles-header { margin: 1rem 0; }
+.sbabc-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 1024px){ .sbabc-columns { grid-template-columns: 1fr; } }
+.sbabc-card { background:#fff; border:1px solid #ccd0d4; border-radius:8px; padding:16px; }
+.sbabc-checklist { list-style:none; padding-left:0; display:grid; grid-template-columns: 1fr 1fr; gap:8px; }
+.sbabc-links .sbabc-handle { width:80px; cursor:move; }
+.sbabc-links .sbabc-handle .dashicons { vertical-align: middle; }
+.sbabc-links input[type="text"], .sbabc-links input[type="url"] { width:100%; }
+.sbabc-sortlist { list-style:none; padding-left:0; }
+.sbabc-sortlist li { background:#fff; border:1px solid #ccd0d4; border-radius:6px; padding:8px; margin:6px 0; cursor:move; display:flex; align-items:center; gap:8px; }
+.sbabc-sortlist code { background:#f0f0f0; padding:2px 4px; border-radius:4px; }
