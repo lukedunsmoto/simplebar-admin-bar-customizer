@@ -3,6 +3,9 @@
 # SimpleBar - Admin Bar Customizer
 A free WordPress plugin that lets you easily customize the admin bar and side menu. Change colours, add your own links, hide elements or use drag and drop to reorder them.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Live Site](https://img.shields.io/badge/demo-live-blue)](https://www.lukedunsmore.com/simplebar-admin-bar-customizer-free-open-source-plugin-for-wordpress)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ---
 
 ## Why SimpleBar?
